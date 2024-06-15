@@ -8,6 +8,10 @@ Prove con github - pubblico
 
 [ ] Task 3
 
-[cisco](https://www.cisco.com) cccccc
+[cisco](https://www.cisco.com)
 
-*word*hello
+[mark xxx](https://www.markdownguide.org/basic-syntax)
+
+*word* italic
+**word** bold
+***word3*** bold and italic
