@@ -12,6 +12,6 @@ Prove con github - pubblico
 
 [mark xxx](https://www.markdownguide.org/basic-syntax)
 
-*word* italic  
-**word** bold
-* **word3** * bold and italic
+*word1* italic  
+**word2** bold
+***word3*** bold and italic
