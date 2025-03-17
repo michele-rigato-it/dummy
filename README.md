@@ -14,4 +14,4 @@ Prove con github - pubblico
 
 *word* italic  
 **word** bold
-***word3*** bold and italic
+* **word3** * bold and italic
